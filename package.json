@@ -19,14 +19,11 @@
     "react-spring": "^9.5.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://rampravesh19-96.github.io/myportfolio-masterui",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && if exist build\\index.html copy /Y build\\index.html build\\404.html",
+    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
