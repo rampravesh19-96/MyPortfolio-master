@@ -102,7 +102,7 @@ function About() {
                   </li>
                   <li>
                     <i className="bi bi-chevron-right"></i>
-                    <strong>City:</strong> <span>Delhi In</span>
+                    <strong>City:</strong> <span>Bhagalpur</span>
                   </li>
                 </ul>
                 

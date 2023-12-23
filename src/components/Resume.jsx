@@ -15,7 +15,7 @@ function Resume() {
               <h4>Ram Pravesh Singh</h4>
               <p><em>Full Stack Web Developer and Freelancer with 2+ years of experience</em></p>
               <ul>
-                <li>Preet Vihar Delhi In</li>
+                <li>Bhagalpur</li>
                 <li><a href="tel:+917320863504" style={{ textDecoration: "none",color:"inherit" }}>+917320863504</a></li>
                 <li><a href="mailto:rampraveshsingh1996@gmail.com" style={{ textDecoration: "none",color:"inherit" }}>rampraveshsingh1996@gmail.com</a></li>
               </ul>
